@@ -47,8 +47,7 @@ As I step into my third year, my focus is on making our Cobble Stream and Cobble
 To anyone new joining the team, my advice is this: embrace the challenge. It’s okay not to have all the answers. Be curious, ask questions, and trust the process and the people around you. I am incredibly excited about the company's future direction. The vision is bold, and I have no doubt that with this team, we can achieve it.
 
 
-## Optional (Palagay if sa LinkedIn Post)
-Let's Connect!
+## Let's Connect!
 My journey at KodeCraft has been nothing short of transformative. I'm grateful to Jacob, Karl, Louie, Pau, Josef, Mavic, Herald, Gab and the entire team for their support, mentorship, and camaraderie.
 
 If my story resonates with you, or if you're passionate about solving complex problems with cutting-edge technology, I'd love to connect. If you’re a builder, a learner, and someone who thrives on a challenge, check out our careers page. We're building something special here.
