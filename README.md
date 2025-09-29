@@ -49,7 +49,7 @@ To anyone new joining the team, my advice is this: embrace the challenge. It’s
 
 
 ## Let's Connect!
-My journey at KodeCraft has been nothing short of transformative. I'm grateful to Jacob, Karl, Louie, Pau, Josef, Mavic, Herald, Gab and the entire team for their support, mentorship, and camaraderie.
+My journey at KodeCraft has been nothing short of transformative. I'm grateful to Jacob, Karl, Louie, Pau, Josef, Mavic, Herald, Eluard, Gab and the entire team for their support, mentorship, and camaraderie.
 
 If my story resonates with you, or if you're passionate about solving complex problems with cutting-edge technology, I'd love to connect. If you’re a builder, a learner, and someone who thrives on a challenge, check out our careers page. We're building something special here.
 
