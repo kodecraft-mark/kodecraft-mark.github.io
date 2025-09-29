@@ -16,7 +16,8 @@ My first major project was "Jabra UI," a web application for an Option Quoter. T
 
 The environment was electric. Working alongside brilliant and competitive colleagues, especially Karl, one of the sharpest thinkers I’ve known since our university days, pushed me to be better every single day. That first year wasn't just about learning a new language; it was about a fundamental upgrade to my skills, my confidence, and my competitive edge. The culmination of this growth was when I was encouraged to lead a tech talk on the Jabra UI project. Public speaking has never been my forte, but I stood up there, explained our work, and answered questions. It was a massive boost to my communication skills (and I'm hoping for more opportunities, maybe with slightly less shaky notes next time!).
 
-![Group photo after our tech talks](/pic1.jpg)
+### Jabra UI: After 15 days of Learning Rust & Leptos
+![Jabra UI](/pic3.png)
 
 ## Year Two: Resilience, Growth, and a Trip to Vancouver
 Year two began with a gut punch. Jabra UI, my bread and butter and a project I had poured my heart into, was discontinued. I was devastated. The questions flooded my mind: Was it my fault? Could I have done more to save it? My confidence plummeted, and for a few days, my productivity ground to a halt.
