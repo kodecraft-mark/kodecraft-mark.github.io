@@ -1,4 +1,4 @@
-# Two Years as Rustaceans: Building a Door and Finding My Stride
+# Two Years as a Rustacean: Building a Door and Finding My Stride
 "If opportunity doesn't knock, build a door." - Milton Berle
 
 Two years ago, I built a door. I was comfortable in my previous job, a good company where I had learned a lot. Yet, a nagging feeling of stagnation was starting to creep in. The tech stack felt like it was aging, the path forward was hazy, and I knew deep down that I was capable of more. I was worried about getting stuck.
